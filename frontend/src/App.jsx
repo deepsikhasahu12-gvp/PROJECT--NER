@@ -1,13 +1,13 @@
 import { useState } from "react";
 
-import Sidebar from "./components/Sidebar";
-import Header from "./components/Header";
-import Stats from "./components/Stats";
-import MapView from "./components/MapView";
-import RiskPanel from "./components/RiskPanel";
-import RoutePanel from "./components/RoutePanel";
-import DeliveryPanel from "./components/DeliveryPanel";
-import FieldReport from "./components/FieldReport";
+import Sidebar from "./Sidebar";
+import Header from "./Header";
+import Stats from "./Stats";
+import MapView from "./MapView";
+import RiskPanel from "./RiskPanel";
+import RoutePanel from "./RoutePanel";
+import DeliveryPanel from "./DeliveryPanel";
+import FieldReport from "./FieldReport";
 
 
 function App() {
